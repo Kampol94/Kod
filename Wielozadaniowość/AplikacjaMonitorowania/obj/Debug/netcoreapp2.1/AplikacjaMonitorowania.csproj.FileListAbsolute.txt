@@ -1,0 +1,14 @@
+C:\Kod\Rozdzial13\AplikacjaMonitorowania\bin\Debug\netcoreapp2.1\AplikacjaMonitorowania.deps.json
+C:\Kod\Rozdzial13\AplikacjaMonitorowania\bin\Debug\netcoreapp2.1\AplikacjaMonitorowania.runtimeconfig.json
+C:\Kod\Rozdzial13\AplikacjaMonitorowania\bin\Debug\netcoreapp2.1\AplikacjaMonitorowania.runtimeconfig.dev.json
+C:\Kod\Rozdzial13\AplikacjaMonitorowania\bin\Debug\netcoreapp2.1\AplikacjaMonitorowania.dll
+C:\Kod\Rozdzial13\AplikacjaMonitorowania\bin\Debug\netcoreapp2.1\AplikacjaMonitorowania.pdb
+C:\Kod\Rozdzial13\AplikacjaMonitorowania\bin\Debug\netcoreapp2.1\BibliotekaMonitorowania.dll
+C:\Kod\Rozdzial13\AplikacjaMonitorowania\bin\Debug\netcoreapp2.1\BibliotekaMonitorowania.pdb
+C:\Kod\Rozdzial13\AplikacjaMonitorowania\obj\Debug\netcoreapp2.1\AplikacjaMonitorowania.csprojAssemblyReference.cache
+C:\Kod\Rozdzial13\AplikacjaMonitorowania\obj\Debug\netcoreapp2.1\AplikacjaMonitorowania.csproj.CoreCompileInputs.cache
+C:\Kod\Rozdzial13\AplikacjaMonitorowania\obj\Debug\netcoreapp2.1\AplikacjaMonitorowania.AssemblyInfoInputs.cache
+C:\Kod\Rozdzial13\AplikacjaMonitorowania\obj\Debug\netcoreapp2.1\AplikacjaMonitorowania.AssemblyInfo.cs
+C:\Kod\Rozdzial13\AplikacjaMonitorowania\obj\Debug\netcoreapp2.1\AplikacjaMonitorowania.csproj.CopyComplete
+C:\Kod\Rozdzial13\AplikacjaMonitorowania\obj\Debug\netcoreapp2.1\AplikacjaMonitorowania.dll
+C:\Kod\Rozdzial13\AplikacjaMonitorowania\obj\Debug\netcoreapp2.1\AplikacjaMonitorowania.pdb

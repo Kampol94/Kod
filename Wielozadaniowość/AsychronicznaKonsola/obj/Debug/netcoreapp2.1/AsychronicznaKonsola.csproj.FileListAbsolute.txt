@@ -1,0 +1,10 @@
+C:\Kod\Rozdzial13\AsychronicznaKonsola\obj\Debug\netcoreapp2.1\AsychronicznaKonsola.csproj.CoreCompileInputs.cache
+C:\Kod\Rozdzial13\AsychronicznaKonsola\obj\Debug\netcoreapp2.1\AsychronicznaKonsola.AssemblyInfoInputs.cache
+C:\Kod\Rozdzial13\AsychronicznaKonsola\obj\Debug\netcoreapp2.1\AsychronicznaKonsola.AssemblyInfo.cs
+C:\Kod\Rozdzial13\AsychronicznaKonsola\bin\Debug\netcoreapp2.1\AsychronicznaKonsola.deps.json
+C:\Kod\Rozdzial13\AsychronicznaKonsola\bin\Debug\netcoreapp2.1\AsychronicznaKonsola.runtimeconfig.json
+C:\Kod\Rozdzial13\AsychronicznaKonsola\bin\Debug\netcoreapp2.1\AsychronicznaKonsola.runtimeconfig.dev.json
+C:\Kod\Rozdzial13\AsychronicznaKonsola\bin\Debug\netcoreapp2.1\AsychronicznaKonsola.dll
+C:\Kod\Rozdzial13\AsychronicznaKonsola\bin\Debug\netcoreapp2.1\AsychronicznaKonsola.pdb
+C:\Kod\Rozdzial13\AsychronicznaKonsola\obj\Debug\netcoreapp2.1\AsychronicznaKonsola.dll
+C:\Kod\Rozdzial13\AsychronicznaKonsola\obj\Debug\netcoreapp2.1\AsychronicznaKonsola.pdb

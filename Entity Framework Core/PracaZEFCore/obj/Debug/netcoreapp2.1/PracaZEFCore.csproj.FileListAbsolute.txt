@@ -1,0 +1,11 @@
+C:\Kod\Rozdzial11\PracaZEFCore\bin\Debug\netcoreapp2.1\PracaZEFCore.deps.json
+C:\Kod\Rozdzial11\PracaZEFCore\bin\Debug\netcoreapp2.1\PracaZEFCore.runtimeconfig.json
+C:\Kod\Rozdzial11\PracaZEFCore\bin\Debug\netcoreapp2.1\PracaZEFCore.runtimeconfig.dev.json
+C:\Kod\Rozdzial11\PracaZEFCore\bin\Debug\netcoreapp2.1\PracaZEFCore.dll
+C:\Kod\Rozdzial11\PracaZEFCore\obj\Debug\netcoreapp2.1\PracaZEFCore.csprojAssemblyReference.cache
+C:\Kod\Rozdzial11\PracaZEFCore\obj\Debug\netcoreapp2.1\PracaZEFCore.csproj.CoreCompileInputs.cache
+C:\Kod\Rozdzial11\PracaZEFCore\obj\Debug\netcoreapp2.1\PracaZEFCore.AssemblyInfoInputs.cache
+C:\Kod\Rozdzial11\PracaZEFCore\obj\Debug\netcoreapp2.1\PracaZEFCore.AssemblyInfo.cs
+C:\Kod\Rozdzial11\PracaZEFCore\bin\Debug\netcoreapp2.1\PracaZEFCore.pdb
+C:\Kod\Rozdzial11\PracaZEFCore\obj\Debug\netcoreapp2.1\PracaZEFCore.dll
+C:\Kod\Rozdzial11\PracaZEFCore\obj\Debug\netcoreapp2.1\PracaZEFCore.pdb

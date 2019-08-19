@@ -1,0 +1,10 @@
+C:\Kod\Rozdział12\RownoloegleLinqWydajnosc\bin\Debug\netcoreapp2.1\RownoloegleLinqWydajnosc.deps.json
+C:\Kod\Rozdział12\RownoloegleLinqWydajnosc\bin\Debug\netcoreapp2.1\RownoloegleLinqWydajnosc.runtimeconfig.json
+C:\Kod\Rozdział12\RownoloegleLinqWydajnosc\bin\Debug\netcoreapp2.1\RownoloegleLinqWydajnosc.runtimeconfig.dev.json
+C:\Kod\Rozdział12\RownoloegleLinqWydajnosc\bin\Debug\netcoreapp2.1\RownoloegleLinqWydajnosc.dll
+C:\Kod\Rozdział12\RownoloegleLinqWydajnosc\bin\Debug\netcoreapp2.1\RownoloegleLinqWydajnosc.pdb
+C:\Kod\Rozdział12\RownoloegleLinqWydajnosc\obj\Debug\netcoreapp2.1\RownoloegleLinqWydajnosc.csproj.CoreCompileInputs.cache
+C:\Kod\Rozdział12\RownoloegleLinqWydajnosc\obj\Debug\netcoreapp2.1\RownoloegleLinqWydajnosc.AssemblyInfoInputs.cache
+C:\Kod\Rozdział12\RownoloegleLinqWydajnosc\obj\Debug\netcoreapp2.1\RownoloegleLinqWydajnosc.AssemblyInfo.cs
+C:\Kod\Rozdział12\RownoloegleLinqWydajnosc\obj\Debug\netcoreapp2.1\RownoloegleLinqWydajnosc.dll
+C:\Kod\Rozdział12\RownoloegleLinqWydajnosc\obj\Debug\netcoreapp2.1\RownoloegleLinqWydajnosc.pdb

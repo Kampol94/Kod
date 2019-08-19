@@ -1,0 +1,10 @@
+C:\Kod\Rozdzial13\ZadaniaZagniezdzoneIPotomne\bin\Debug\netcoreapp2.1\ZadaniaZagniezdzoneIPotomne.deps.json
+C:\Kod\Rozdzial13\ZadaniaZagniezdzoneIPotomne\bin\Debug\netcoreapp2.1\ZadaniaZagniezdzoneIPotomne.runtimeconfig.json
+C:\Kod\Rozdzial13\ZadaniaZagniezdzoneIPotomne\bin\Debug\netcoreapp2.1\ZadaniaZagniezdzoneIPotomne.runtimeconfig.dev.json
+C:\Kod\Rozdzial13\ZadaniaZagniezdzoneIPotomne\bin\Debug\netcoreapp2.1\ZadaniaZagniezdzoneIPotomne.dll
+C:\Kod\Rozdzial13\ZadaniaZagniezdzoneIPotomne\bin\Debug\netcoreapp2.1\ZadaniaZagniezdzoneIPotomne.pdb
+C:\Kod\Rozdzial13\ZadaniaZagniezdzoneIPotomne\obj\Debug\netcoreapp2.1\ZadaniaZagniezdzoneIPotomne.csproj.CoreCompileInputs.cache
+C:\Kod\Rozdzial13\ZadaniaZagniezdzoneIPotomne\obj\Debug\netcoreapp2.1\ZadaniaZagniezdzoneIPotomne.AssemblyInfoInputs.cache
+C:\Kod\Rozdzial13\ZadaniaZagniezdzoneIPotomne\obj\Debug\netcoreapp2.1\ZadaniaZagniezdzoneIPotomne.AssemblyInfo.cs
+C:\Kod\Rozdzial13\ZadaniaZagniezdzoneIPotomne\obj\Debug\netcoreapp2.1\ZadaniaZagniezdzoneIPotomne.dll
+C:\Kod\Rozdzial13\ZadaniaZagniezdzoneIPotomne\obj\Debug\netcoreapp2.1\ZadaniaZagniezdzoneIPotomne.pdb

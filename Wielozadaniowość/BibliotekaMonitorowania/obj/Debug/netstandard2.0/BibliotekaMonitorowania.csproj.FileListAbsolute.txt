@@ -1,0 +1,9 @@
+C:\Kod\Rozdzial13\BibliotekaMonitorowania\bin\Debug\netstandard2.0\BibliotekaMonitorowania.deps.json
+C:\Kod\Rozdzial13\BibliotekaMonitorowania\bin\Debug\netstandard2.0\BibliotekaMonitorowania.dll
+C:\Kod\Rozdzial13\BibliotekaMonitorowania\bin\Debug\netstandard2.0\BibliotekaMonitorowania.pdb
+C:\Kod\Rozdzial13\BibliotekaMonitorowania\obj\Debug\netstandard2.0\BibliotekaMonitorowania.csprojAssemblyReference.cache
+C:\Kod\Rozdzial13\BibliotekaMonitorowania\obj\Debug\netstandard2.0\BibliotekaMonitorowania.csproj.CoreCompileInputs.cache
+C:\Kod\Rozdzial13\BibliotekaMonitorowania\obj\Debug\netstandard2.0\BibliotekaMonitorowania.AssemblyInfoInputs.cache
+C:\Kod\Rozdzial13\BibliotekaMonitorowania\obj\Debug\netstandard2.0\BibliotekaMonitorowania.AssemblyInfo.cs
+C:\Kod\Rozdzial13\BibliotekaMonitorowania\obj\Debug\netstandard2.0\BibliotekaMonitorowania.dll
+C:\Kod\Rozdzial13\BibliotekaMonitorowania\obj\Debug\netstandard2.0\BibliotekaMonitorowania.pdb

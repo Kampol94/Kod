@@ -1,0 +1,14 @@
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaSkrotow\bin\Debug\netcoreapp2.1\AplikacjaSkrotow.deps.json
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaSkrotow\bin\Debug\netcoreapp2.1\AplikacjaSkrotow.runtimeconfig.json
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaSkrotow\bin\Debug\netcoreapp2.1\AplikacjaSkrotow.runtimeconfig.dev.json
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaSkrotow\bin\Debug\netcoreapp2.1\AplikacjaSkrotow.dll
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaSkrotow\bin\Debug\netcoreapp2.1\AplikacjaSkrotow.pdb
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaSkrotow\bin\Debug\netcoreapp2.1\BibliotekaKryptograficzna.dll
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaSkrotow\bin\Debug\netcoreapp2.1\BibliotekaKryptograficzna.pdb
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaSkrotow\obj\Debug\netcoreapp2.1\AplikacjaSkrotow.csprojAssemblyReference.cache
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaSkrotow\obj\Debug\netcoreapp2.1\AplikacjaSkrotow.csproj.CoreCompileInputs.cache
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaSkrotow\obj\Debug\netcoreapp2.1\AplikacjaSkrotow.AssemblyInfoInputs.cache
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaSkrotow\obj\Debug\netcoreapp2.1\AplikacjaSkrotow.AssemblyInfo.cs
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaSkrotow\obj\Debug\netcoreapp2.1\AplikacjaSkrotow.csproj.CopyComplete
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaSkrotow\obj\Debug\netcoreapp2.1\AplikacjaSkrotow.dll
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaSkrotow\obj\Debug\netcoreapp2.1\AplikacjaSkrotow.pdb

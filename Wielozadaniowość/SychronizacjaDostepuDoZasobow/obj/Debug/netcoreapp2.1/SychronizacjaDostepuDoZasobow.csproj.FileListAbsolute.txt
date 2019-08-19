@@ -1,0 +1,10 @@
+C:\Kod\Rozdzial13\SychronizacjaDostepuDoZasobow\obj\Debug\netcoreapp2.1\SychronizacjaDostepuDoZasobow.csproj.CoreCompileInputs.cache
+C:\Kod\Rozdzial13\SychronizacjaDostepuDoZasobow\obj\Debug\netcoreapp2.1\SychronizacjaDostepuDoZasobow.AssemblyInfoInputs.cache
+C:\Kod\Rozdzial13\SychronizacjaDostepuDoZasobow\obj\Debug\netcoreapp2.1\SychronizacjaDostepuDoZasobow.AssemblyInfo.cs
+C:\Kod\Rozdzial13\SychronizacjaDostepuDoZasobow\bin\Debug\netcoreapp2.1\SychronizacjaDostepuDoZasobow.deps.json
+C:\Kod\Rozdzial13\SychronizacjaDostepuDoZasobow\bin\Debug\netcoreapp2.1\SychronizacjaDostepuDoZasobow.runtimeconfig.json
+C:\Kod\Rozdzial13\SychronizacjaDostepuDoZasobow\bin\Debug\netcoreapp2.1\SychronizacjaDostepuDoZasobow.runtimeconfig.dev.json
+C:\Kod\Rozdzial13\SychronizacjaDostepuDoZasobow\bin\Debug\netcoreapp2.1\SychronizacjaDostepuDoZasobow.dll
+C:\Kod\Rozdzial13\SychronizacjaDostepuDoZasobow\bin\Debug\netcoreapp2.1\SychronizacjaDostepuDoZasobow.pdb
+C:\Kod\Rozdzial13\SychronizacjaDostepuDoZasobow\obj\Debug\netcoreapp2.1\SychronizacjaDostepuDoZasobow.dll
+C:\Kod\Rozdzial13\SychronizacjaDostepuDoZasobow\obj\Debug\netcoreapp2.1\SychronizacjaDostepuDoZasobow.pdb

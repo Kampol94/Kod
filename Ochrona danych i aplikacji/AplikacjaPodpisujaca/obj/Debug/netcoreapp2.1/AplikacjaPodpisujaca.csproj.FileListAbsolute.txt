@@ -1,0 +1,14 @@
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaPodpisujaca\bin\Debug\netcoreapp2.1\AplikacjaPodpisujaca.deps.json
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaPodpisujaca\bin\Debug\netcoreapp2.1\AplikacjaPodpisujaca.runtimeconfig.json
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaPodpisujaca\bin\Debug\netcoreapp2.1\AplikacjaPodpisujaca.runtimeconfig.dev.json
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaPodpisujaca\bin\Debug\netcoreapp2.1\AplikacjaPodpisujaca.dll
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaPodpisujaca\bin\Debug\netcoreapp2.1\AplikacjaPodpisujaca.pdb
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaPodpisujaca\bin\Debug\netcoreapp2.1\BibliotekaKryptograficzna.dll
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaPodpisujaca\bin\Debug\netcoreapp2.1\BibliotekaKryptograficzna.pdb
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaPodpisujaca\obj\Debug\netcoreapp2.1\AplikacjaPodpisujaca.csprojAssemblyReference.cache
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaPodpisujaca\obj\Debug\netcoreapp2.1\AplikacjaPodpisujaca.csproj.CoreCompileInputs.cache
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaPodpisujaca\obj\Debug\netcoreapp2.1\AplikacjaPodpisujaca.AssemblyInfoInputs.cache
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaPodpisujaca\obj\Debug\netcoreapp2.1\AplikacjaPodpisujaca.AssemblyInfo.cs
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaPodpisujaca\obj\Debug\netcoreapp2.1\AplikacjaPodpisujaca.csproj.CopyComplete
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaPodpisujaca\obj\Debug\netcoreapp2.1\AplikacjaPodpisujaca.dll
+C:\Users\kampo\source\repos\Rozdzial10\AplikacjaPodpisujaca\obj\Debug\netcoreapp2.1\AplikacjaPodpisujaca.pdb

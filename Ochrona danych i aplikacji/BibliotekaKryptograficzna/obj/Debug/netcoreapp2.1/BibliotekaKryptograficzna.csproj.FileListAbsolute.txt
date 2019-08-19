@@ -1,0 +1,9 @@
+C:\Users\kampo\source\repos\Rozdzial10\BibliotekaKryptograficzna\bin\Debug\netcoreapp2.1\BibliotekaKryptograficzna.deps.json
+C:\Users\kampo\source\repos\Rozdzial10\BibliotekaKryptograficzna\bin\Debug\netcoreapp2.1\BibliotekaKryptograficzna.dll
+C:\Users\kampo\source\repos\Rozdzial10\BibliotekaKryptograficzna\bin\Debug\netcoreapp2.1\BibliotekaKryptograficzna.pdb
+C:\Users\kampo\source\repos\Rozdzial10\BibliotekaKryptograficzna\obj\Debug\netcoreapp2.1\BibliotekaKryptograficzna.csprojAssemblyReference.cache
+C:\Users\kampo\source\repos\Rozdzial10\BibliotekaKryptograficzna\obj\Debug\netcoreapp2.1\BibliotekaKryptograficzna.csproj.CoreCompileInputs.cache
+C:\Users\kampo\source\repos\Rozdzial10\BibliotekaKryptograficzna\obj\Debug\netcoreapp2.1\BibliotekaKryptograficzna.AssemblyInfoInputs.cache
+C:\Users\kampo\source\repos\Rozdzial10\BibliotekaKryptograficzna\obj\Debug\netcoreapp2.1\BibliotekaKryptograficzna.AssemblyInfo.cs
+C:\Users\kampo\source\repos\Rozdzial10\BibliotekaKryptograficzna\obj\Debug\netcoreapp2.1\BibliotekaKryptograficzna.dll
+C:\Users\kampo\source\repos\Rozdzial10\BibliotekaKryptograficzna\obj\Debug\netcoreapp2.1\BibliotekaKryptograficzna.pdb

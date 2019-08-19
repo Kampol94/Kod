@@ -1,0 +1,11 @@
+C:\Kod\Rozdzial13\PracaZZadaniami\bin\Debug\netcoreapp2.1\PracaZZadaniami.deps.json
+C:\Kod\Rozdzial13\PracaZZadaniami\bin\Debug\netcoreapp2.1\PracaZZadaniami.runtimeconfig.json
+C:\Kod\Rozdzial13\PracaZZadaniami\bin\Debug\netcoreapp2.1\PracaZZadaniami.runtimeconfig.dev.json
+C:\Kod\Rozdzial13\PracaZZadaniami\bin\Debug\netcoreapp2.1\PracaZZadaniami.dll
+C:\Kod\Rozdzial13\PracaZZadaniami\bin\Debug\netcoreapp2.1\PracaZZadaniami.pdb
+C:\Kod\Rozdzial13\PracaZZadaniami\obj\Debug\netcoreapp2.1\PracaZZadaniami.csprojAssemblyReference.cache
+C:\Kod\Rozdzial13\PracaZZadaniami\obj\Debug\netcoreapp2.1\PracaZZadaniami.csproj.CoreCompileInputs.cache
+C:\Kod\Rozdzial13\PracaZZadaniami\obj\Debug\netcoreapp2.1\PracaZZadaniami.AssemblyInfoInputs.cache
+C:\Kod\Rozdzial13\PracaZZadaniami\obj\Debug\netcoreapp2.1\PracaZZadaniami.AssemblyInfo.cs
+C:\Kod\Rozdzial13\PracaZZadaniami\obj\Debug\netcoreapp2.1\PracaZZadaniami.dll
+C:\Kod\Rozdzial13\PracaZZadaniami\obj\Debug\netcoreapp2.1\PracaZZadaniami.pdb
