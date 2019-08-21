@@ -1,0 +1,9 @@
+C:\Kod\Czesc3\BibliotekaEncjiNorthwind\bin\Debug\netstandard2.0\BibliotekaEncjiNorthwind.deps.json
+C:\Kod\Czesc3\BibliotekaEncjiNorthwind\bin\Debug\netstandard2.0\BibliotekaEncjiNorthwind.dll
+C:\Kod\Czesc3\BibliotekaEncjiNorthwind\bin\Debug\netstandard2.0\BibliotekaEncjiNorthwind.pdb
+C:\Kod\Czesc3\BibliotekaEncjiNorthwind\obj\Debug\netstandard2.0\BibliotekaEncjiNorthwind.csprojAssemblyReference.cache
+C:\Kod\Czesc3\BibliotekaEncjiNorthwind\obj\Debug\netstandard2.0\BibliotekaEncjiNorthwind.csproj.CoreCompileInputs.cache
+C:\Kod\Czesc3\BibliotekaEncjiNorthwind\obj\Debug\netstandard2.0\BibliotekaEncjiNorthwind.AssemblyInfoInputs.cache
+C:\Kod\Czesc3\BibliotekaEncjiNorthwind\obj\Debug\netstandard2.0\BibliotekaEncjiNorthwind.AssemblyInfo.cs
+C:\Kod\Czesc3\BibliotekaEncjiNorthwind\obj\Debug\netstandard2.0\BibliotekaEncjiNorthwind.dll
+C:\Kod\Czesc3\BibliotekaEncjiNorthwind\obj\Debug\netstandard2.0\BibliotekaEncjiNorthwind.pdb

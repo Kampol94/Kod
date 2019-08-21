@@ -710,11 +710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kampo\\OneDrive\\Desktop\\Rozdzial10\\AplikacjaBezpieczna\\AplikacjaBezpieczna.csproj",
+      "projectUniqueName": "C:\\Kod\\Ochrona danych i aplikacji\\AplikacjaBezpieczna\\AplikacjaBezpieczna.csproj",
       "projectName": "AplikacjaBezpieczna",
-      "projectPath": "C:\\Users\\kampo\\OneDrive\\Desktop\\Rozdzial10\\AplikacjaBezpieczna\\AplikacjaBezpieczna.csproj",
+      "projectPath": "C:\\Kod\\Ochrona danych i aplikacji\\AplikacjaBezpieczna\\AplikacjaBezpieczna.csproj",
       "packagesPath": "C:\\Users\\kampo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kampo\\OneDrive\\Desktop\\Rozdzial10\\AplikacjaBezpieczna\\obj\\",
+      "outputPath": "C:\\Kod\\Ochrona danych i aplikacji\\AplikacjaBezpieczna\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -733,8 +733,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\kampo\\OneDrive\\Desktop\\Rozdzial10\\BibliotekaKryptograficzna\\BibliotekaKryptograficzna.csproj": {
-              "projectPath": "C:\\Users\\kampo\\OneDrive\\Desktop\\Rozdzial10\\BibliotekaKryptograficzna\\BibliotekaKryptograficzna.csproj"
+            "C:\\Kod\\Ochrona danych i aplikacji\\BibliotekaKryptograficzna\\BibliotekaKryptograficzna.csproj": {
+              "projectPath": "C:\\Kod\\Ochrona danych i aplikacji\\BibliotekaKryptograficzna\\BibliotekaKryptograficzna.csproj"
             }
           }
         }

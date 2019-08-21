@@ -1,0 +1,25 @@
+﻿@page
+@model NorthwindWeb.Pages.CustomersModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<div class="row">
+    <h1 class="display-2">Klienci</h1>
+    <table class="table">
+        <thead class="thead-inverse">
+            <tr><th>Imie</th></tr>
+        </thead>
+        <tbody>
+            @foreach (string name in Model.Customers)
+            {
+            <tr>
+                <td>
+                    @name
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@name">Details</a>
+                </td>
+            </tr>
+
+        }
+        </tbody>
+    </table>
+</div>

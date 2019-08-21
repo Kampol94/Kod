@@ -710,11 +710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kampo\\OneDrive\\Desktop\\Rozdzial10\\AplikacjaSkrotow\\AplikacjaSkrotow.csproj",
+      "projectUniqueName": "C:\\Kod\\Ochrona danych i aplikacji\\AplikacjaSkrotow\\AplikacjaSkrotow.csproj",
       "projectName": "AplikacjaSkrotow",
-      "projectPath": "C:\\Users\\kampo\\OneDrive\\Desktop\\Rozdzial10\\AplikacjaSkrotow\\AplikacjaSkrotow.csproj",
+      "projectPath": "C:\\Kod\\Ochrona danych i aplikacji\\AplikacjaSkrotow\\AplikacjaSkrotow.csproj",
       "packagesPath": "C:\\Users\\kampo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kampo\\OneDrive\\Desktop\\Rozdzial10\\AplikacjaSkrotow\\obj\\",
+      "outputPath": "C:\\Kod\\Ochrona danych i aplikacji\\AplikacjaSkrotow\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -733,8 +733,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\kampo\\OneDrive\\Desktop\\Rozdzial10\\BibliotekaKryptograficzna\\BibliotekaKryptograficzna.csproj": {
-              "projectPath": "C:\\Users\\kampo\\OneDrive\\Desktop\\Rozdzial10\\BibliotekaKryptograficzna\\BibliotekaKryptograficzna.csproj"
+            "C:\\Kod\\Ochrona danych i aplikacji\\BibliotekaKryptograficzna\\BibliotekaKryptograficzna.csproj": {
+              "projectPath": "C:\\Kod\\Ochrona danych i aplikacji\\BibliotekaKryptograficzna\\BibliotekaKryptograficzna.csproj"
             }
           }
         }

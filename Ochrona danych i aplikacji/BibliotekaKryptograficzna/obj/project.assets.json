@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kampo\\OneDrive\\Desktop\\Rozdzial10\\BibliotekaKryptograficzna\\BibliotekaKryptograficzna.csproj",
+      "projectUniqueName": "C:\\Kod\\Ochrona danych i aplikacji\\BibliotekaKryptograficzna\\BibliotekaKryptograficzna.csproj",
       "projectName": "BibliotekaKryptograficzna",
-      "projectPath": "C:\\Users\\kampo\\OneDrive\\Desktop\\Rozdzial10\\BibliotekaKryptograficzna\\BibliotekaKryptograficzna.csproj",
+      "projectPath": "C:\\Kod\\Ochrona danych i aplikacji\\BibliotekaKryptograficzna\\BibliotekaKryptograficzna.csproj",
       "packagesPath": "C:\\Users\\kampo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kampo\\OneDrive\\Desktop\\Rozdzial10\\BibliotekaKryptograficzna\\obj\\",
+      "outputPath": "C:\\Kod\\Ochrona danych i aplikacji\\BibliotekaKryptograficzna\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
