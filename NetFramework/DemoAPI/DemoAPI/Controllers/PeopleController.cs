@@ -8,6 +8,10 @@ using System.Web.Http;
 
 namespace DemoAPI.Controllers
 {
+    
+    /// <summary>
+    /// This is where I give you all the information about my peeps.
+    /// </summary>
     public class PeopleController : ApiController
     {
         List<Person> people = new List<Person>();
@@ -30,10 +34,15 @@ namespace DemoAPI.Controllers
         {
             return people.Where(x => x.ID ==id).FirstOrDefault();
         }
-
-        [Route("api/People/GetFirstName")]
+        /// <summary>
+        /// Gets a list of the forst names of users.
+        /// </summary>
+        /// <param name="userID">The unique indentifier</param>
+        /// <param name="age">We want know how old they are</param>
+        /// <returns>A list of firs names</returns>
+        [Route("api/People/GetFirstName/{userID:int}/{age:int}")]
         [HttpGet]
-        public List<string> GetFirstName()
+        public List<string> GetFirstName(int userID, int age)
         {
             var outpot = new List<string>();
 
