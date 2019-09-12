@@ -46,7 +46,7 @@ namespace AplikacjaBezpieczna
 
             try
             {
-                Ochrona.FunkcjaWymagaUprawniwn();
+                Ochrona.FunkcjaWymagaUprawniwn(); //administratora
 
 
             }
