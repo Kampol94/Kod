@@ -10,8 +10,9 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            
+            Console.ReadLine();
 
+            DemonstrateTextFileStorage();
             
             Console.WriteLine();
             Console.Write("Press enter to shut down...");
@@ -26,16 +27,45 @@ namespace ConsoleUI
             string logFile = @"C:\Temp\logs.csv";
 
             PopulateLists(people, logs);
+            /* New way - generics */
+            GenericTextFileProcessor.SaveToTextFile<Person>(people, peopleFile);
+            GenericTextFileProcessor.SaveToTextFile<LogEntry>(logs, logFile);
 
-            OriginalTextFileProcessor.SavePeople(people, peopleFile);
+            var newLogs = GenericTextFileProcessor.LoadFromTextFile<LogEntry>(logFile);
 
-            var newPeople = OriginalTextFileProcessor.LoadPeople(peopleFile);
+            foreach (var log in logs)
+            {
+                Console.WriteLine($"{ log.ErrorCode }: { log.Message} at { log.TimeOfEvent.ToShortTimeString() }");
+            }
+
+            var newPeople = GenericTextFileProcessor.LoadFromTextFile<Person>(peopleFile);
 
             foreach (var p in newPeople)
             {
                 Console.WriteLine($"{ p.FirstName } { p.LastName } (IsAlive = { p.IsAlive })");
             }
+
+            /* Old way - no generics */
+            //OriginalTextFileProcessor.SaveLogs(logs, logFile);
+
+            //var newLogs = OriginalTextFileProcessor.LoadLogs(logFile);
+
+            //foreach (var log in logs)
+            //{
+            //    Console.WriteLine($"{ log.ErrorCode }: { log.Message} at { log.TimeOfEvent.ToShortTimeString() }");
+            //}
+
+            //OriginalTextFileProcessor.SavePeople(people, peopleFile);
+
+            //var newPeople = OriginalTextFileProcessor.LoadPeople(peopleFile);
+
+            //foreach (var p in newPeople)
+            //{
+            //    Console.WriteLine($"{ p.FirstName } { p.LastName } (IsAlive = { p.IsAlive })");
+            //}
         }
+
+
 
         private static void PopulateLists(List<Person> people, List<LogEntry> logs)
         {
