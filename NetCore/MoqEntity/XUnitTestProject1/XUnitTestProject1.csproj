@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\BibliotekaNorthwind.csproj" />
+    <ProjectReference Include="..\BibliotekaNorthwind\BibliotekaNorthwind.csproj" />
     <ProjectReference Include="..\ConsoleApp4\ConsoleApp4.csproj" />
   </ItemGroup>
 

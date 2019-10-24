@@ -6,7 +6,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Xunit;
-using BibliotekaNorthwind;
 using ConsoleApp4;
 
 namespace XUnitTestProject1

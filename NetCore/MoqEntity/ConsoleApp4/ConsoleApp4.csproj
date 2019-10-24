@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\BibliotekaNorthwind.csproj" />
+    <ProjectReference Include="..\BibliotekaNorthwind\BibliotekaNorthwind.csproj" />
   </ItemGroup>
 
 </Project>
